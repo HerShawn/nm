@@ -14,6 +14,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#只跟踪感兴趣的文件
+/*
+!*.cpp
+!*.hpp
+!*.gitignore
+
+
 # Windows shortcuts
 *.lnk
 
